@@ -1,0 +1,8 @@
+README.md
+setup.py
+Weather_Forecaster1.2_ManishShah120.egg-info/PKG-INFO
+Weather_Forecaster1.2_ManishShah120.egg-info/SOURCES.txt
+Weather_Forecaster1.2_ManishShah120.egg-info/dependency_links.txt
+Weather_Forecaster1.2_ManishShah120.egg-info/top_level.txt
+packages/__init__.py
+packages/citiesurl.py
