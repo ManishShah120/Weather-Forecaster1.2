@@ -3,20 +3,19 @@
 - A simple python web crawler to fetch Weather report of any state in India.
 # Getting Started
 ### Installation
-After downloading or cloning the repo, Navigate to the directory containing the files and double click on **setup.py** or **run** 
+After downloading or cloning the repo, Navigate to the directory containing the files and double click on **setup.py** or **run** <br>
 ```python3 setup.py install```
-or if you have different versions of python then 
+or if you have different versions of python then <br>
 ```python3 setup.py install``` 
 ###### If the above Commands produces error Try installing the dependnecies
 # To install the dependencies
-```Pip3 install requirements.txt```
-or
-```pip3 install bs4 | pip3 install requests``` 
+> ```Pip3 install requirements.txt``` or
+> ```pip3 install bs4 | pip3 install requests``` 
 # How to run
 From the project directory **run**
 ``` python3 forecastmain.py```
-### HOW IT WORKS
 ![alt text](https://github.com/ManishShah120/Weather-Forecaster1.2/blob/master/Weather%20Forecaster1.2.png)
+### HOW IT WORKS
 - It prompts to select a state from the dropdown and then select a city from that  state to get the forecast and **Voila** You get the required Weather Report of that particualr city.
 - An algorithm is being designed for scraping the data and laying out in the desired format
 - The source code of the requested webpage is decoded and `<div>` containing the forecast string is searched, manipulated a little, fomatted to display
@@ -35,16 +34,16 @@ From the project directory **run**
 
 ## Contributing
 
-> 1.Feel free to FORK
-> 2.Create your feature branch: ```git checkout -b my-new-feature```
-> 3.Beautify/Format your code before making a PR. Poorly stuctured code with inconsistent spacing and bad variable name will not be merged.
-> 4.Use this tool to beautify your code :[Click](https://codebeautify.org/c-formatter-beautifier)
-> 5.Make sure your program works after beautifying it.
-> 6.Please check your spellings before making a PR
-> 7.Comment code properly.
-> 8.Commit your changes: ```git commit -m 'Add some feature'```
-> 9.Push to the branch: ```git push origin my-new-feature```
-> 10.Submit a ```pull``` request
+> 1.Feel free to FORK<br>
+> 2.Create your feature branch: ```git checkout -b my-new-feature```<br>
+> 3.Beautify/Format your code before making a PR. Poorly stuctured code with inconsistent spacing and bad variable name will not be merged.<br>
+> 4.Use this tool to beautify your code :[Click](https://codebeautify.org/c-formatter-beautifier)<br>
+> 5.Make sure your program works after beautifying it.<br>
+> 6.Please check your spellings before making a PR<br>
+> 7.Comment code properly.<br>
+> 8.Commit your changes: ```git commit -m 'Add some feature'```<br>
+> 9.Push to the branch: ```git push origin my-new-feature```<br>
+> 10.Submit a ```pull``` request.
 
 ## Authors
 [**Manish Kumar Shah**](https://github.com/ManishShah120)
