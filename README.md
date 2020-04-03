@@ -4,7 +4,7 @@
 # Getting Started
 ### Installation
 After downloading or cloning the repo, Navigate to the directory containing the files and double click on **setup.py** or **run** <br>
-```python3 setup.py install```
+```python setup.py install```
 or if you have different versions of python then <br>
 ```python3 setup.py install``` 
 ###### If the above Commands produces error Try installing the dependnecies
