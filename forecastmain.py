@@ -15,7 +15,7 @@ Gmail: mkshah141@gmail.com
 """)
 
 def forecast():
-	print("**Wellcome to Weather4cast for Assam**")
+	print("**Wellcome to Weather Forecaster1.2**")
 	print("""
 		1.Assam (AS)
 		2.Arunachal Pradesh (AR)
