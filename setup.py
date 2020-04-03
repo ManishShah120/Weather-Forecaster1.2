@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
 	name="Weather-Forecaster1.2-ManishShah120",
-	version="1.1",
+	version="1.2",
 	author="Manish Kumar Shah",
 	author_email="mkshah141@gmail.com",
 	description="Weather Report of any State in India",
