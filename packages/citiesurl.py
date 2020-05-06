@@ -57,5 +57,13 @@ def geturlandhra(choice):
 		print("\t Weather Report of Visakhapatnam")
 		print("Scraping Data...")
 		return "https://www.accuweather.com/en/in/visakhapatnam/202192/weather-forecast/202192"
-		
+
 # In this way you can add all the states cities url
+'''
+def geturlSTATENAME(choice):
+	if choice == '1' or choice == 'CITYNAME':
+		print("\t Weather Report of CITYNAME")
+		print("Scraping Data...")
+		return "URL OF THE CITY FROM THAT STATE"
+'''
+# Also don't forget to add the cities and name in the forecastmain.py file
