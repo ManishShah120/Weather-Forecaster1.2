@@ -76,6 +76,20 @@ def forecast():
 	      	      """)
 		userinput = input("Select any choice from the cities name given below:- ")
 		url = citiesurl.geturlandhra(userinput)	#I have to work with this variable
+	# In this way you can add your cities name
+	'''
+	elif selectstate == 'STATENUMBER':
+		print("""
+			1. CITYNAME
+			2. CITYNAME
+			3. CITYNAME
+			4. CITYNAME
+			5. CITYNAME
+	      	      """)
+		userinput = input("Select any choice from the cities name given below:- ")
+		url = citiesurl.geturlSTATENAME(userinput)	#I have to work with this variable
+	'''
+	
 	
 	agent = {"User-Agent":'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36'}
 	page = requests.get(url, headers=agent)
