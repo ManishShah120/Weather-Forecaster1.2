@@ -4,9 +4,9 @@
 # Getting Started
 ### Installation
 After downloading or cloning the repo, Navigate to the directory containing the files and double click on **setup.py** or **run** <br>
-```python setup.py install```
+```sudo python setup.py install```
 or if you have different versions of python then <br>
-```python3 setup.py install``` 
+```sudo python3 setup.py install``` 
 ###### If the above Commands produces error Try installing the dependnecies
 # To install the dependencies
 > ```Pip3 install requirements.txt``` or<br>
