@@ -10,7 +10,8 @@ or if you have different versions of python then <br>
 ###### If the above Commands produces error Try installing the dependnecies
 # To install the dependencies
 > ```Pip3 install requirements.txt``` or<br>
-> ```pip3 install bs4 | pip3 install requests``` 
+> ```pip3 install bs4```
+> ```pip3 install requests``` 
 # How to run
 From the project directory **run**
 ``` python3 forecastmain.py```
